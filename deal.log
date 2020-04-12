@@ -1,0 +1,502 @@
+array (
+  0 => 
+  array (
+    'categoryName' => '云鲸',
+    'Title' => '边锋集团电子邮件管理规定',
+    'DownLink' => '/upload/201506/09/边锋集团电子邮件管理规定.pdf',
+    'Manager' => '方冠宇',
+    'Department' => '信息化技术部',
+    'PublicDate' => '2010-11-15 11:03:30.000',
+    'Abstract' => '为规范公司电子邮件的使用，保障电子邮件系统的正常运行，保护公司的信息安全，特制订本制度。',
+  ),
+  1 => 
+  array (
+    'categoryName' => '云鲸',
+    'Title' => '杭州边锋网络技术有限公司计算机及网络管理规定',
+    'DownLink' => '/upload/201506/09/杭州边锋网络技术有限公司计算机及网络管理规定.pdf',
+    'Manager' => '方冠宇',
+    'Department' => '信息化技术部',
+    'PublicDate' => '2010-12-23 11:04:56.000',
+    'Abstract' => '为规范公司计算机及网络系统的日常使用、运营维护和管理，保证公司计算机及网络系统安全、稳定和高效的运行，保障公司信息数据的安全，维护公司整体利益，特制定本制度。',
+  ),
+  2 => 
+  array (
+    'categoryName' => '云鲸',
+    'Title' => '杭州边锋网络技术有限公司CDMA上网卡管理规定',
+    'DownLink' => '/upload/201506/09/杭州边锋网络技术有限公司CDMA上网卡管理规定.pdf',
+    'Manager' => '方冠宇',
+    'Department' => '信息化技术部',
+    'PublicDate' => '2010-12-23 15:26:58.000',
+    'Abstract' => '为规范CDMA 上网卡的申请和使用，并明确使用过程中的权、责关系等， 特制定本制度。',
+  ),
+  3 => 
+  array (
+    'categoryName' => '云鲸',
+    'Title' => '杭州边锋网络技术有限公司办公IT资产管理制度',
+    'DownLink' => '/upload/201506/09/杭州边锋网络技术有限公司办公IT资产管理制度.pdf',
+    'Manager' => '方冠宇',
+    'Department' => '信息化技术部',
+    'PublicDate' => '2010-12-23 15:30:32.000',
+    'Abstract' => '为加强公司办公IT资产的有效管理，实现长效管理，使办公IT资产管理更加规范化，特制定本制度。',
+  ),
+  4 => 
+  array (
+    'categoryName' => '云鲸',
+    'Title' => '杭州边锋网络技术有限公司笔记本管理规定',
+    'DownLink' => '/upload/201506/09/杭州边锋网络技术有限公司笔记本管理规定.pdf',
+    'Manager' => '方冠宇',
+    'Department' => '信息化技术部',
+    'PublicDate' => '2010-12-16 15:32:37.000',
+    'Abstract' => '为有效、正确地使用、维护笔记本电脑，充分发挥其价值，提高资产管理力度，同时保障在使用笔记本电脑中信息的安全保密性，特制定本规定。',
+  ),
+  5 => 
+  array (
+    'categoryName' => '云鲸',
+    'Title' => '杭州边锋网络技术有限公司流程Owner管理办法',
+    'DownLink' => '/upload/201506/09/杭州边锋网络技术有限公司流程Owner管理办法.pdf',
+    'Manager' => '方冠宇',
+    'Department' => '信息化技术部',
+    'PublicDate' => '2010-12-15 15:37:42.000',
+    'Abstract' => '为进一步落实流程优化工作，完善流程管理体系，配合与落实集团化管理，进一步明确流程管理组织结构和职责，依据《关于制定管理制度的制度》等相关规定，特制订本管理办法。',
+  ),
+  6 => 
+  array (
+    'categoryName' => '云鲸',
+    'Title' => '无线网络用户手册',
+    'DownLink' => '/upload/201506/09/无线网络用户手册.doc',
+    'Manager' => '梁晓瑜',
+    'Department' => '信息化技术部',
+    'PublicDate' => '2014-09-05 15:50:46.000',
+    'Abstract' => '公司内部无线网络的使用方法',
+  ),
+  7 => 
+  array (
+    'categoryName' => '云鲸',
+    'Title' => '松下客户端话机使用手册',
+    'DownLink' => '/upload/201506/09/松下客户端话机使用手册.doc',
+    'Manager' => '梁晓瑜',
+    'Department' => '信息化技术部',
+    'PublicDate' => '2014-09-05 15:53:54.000',
+    'Abstract' => '电话机使用手册',
+  ),
+  8 => 
+  array (
+    'categoryName' => '云鲸',
+    'Title' => '新装机器加入Gameabc公司网域操作指南',
+    'DownLink' => '/upload/201506/09/新装机器加入Gameabc公司网域操作指南.doc',
+    'Manager' => '梁晓瑜',
+    'Department' => '信息化技术部',
+    'PublicDate' => '2014-09-05 16:01:13.000',
+    'Abstract' => '新装机器加入Gameabc公司域的手工操作步骤',
+  ),
+  9 => 
+  array (
+    'categoryName' => '人事部',
+    'Title' => '员工和子女医疗理赔申报单',
+    'DownLink' => '/upload/201805/23/员工和子女理赔申请书.pdf',
+    'Manager' => '邹艳',
+    'Department' => '人事部',
+    'PublicDate' => '2018-05-23 11:39:27.000',
+    'Abstract' => '员工医疗理赔申报单',
+  ),
+  10 => 
+  array (
+    'categoryName' => '人事部',
+    'Title' => '重疾理赔申请单',
+    'DownLink' => '/upload/201805/23/重疾理赔申请书.pdf',
+    'Manager' => '邹艳',
+    'Department' => '人事部',
+    'PublicDate' => '2018-05-23 14:18:33.000',
+    'Abstract' => '子女医疗保障理赔申报单',
+  ),
+  11 => 
+  array (
+    'categoryName' => '人事部',
+    'Title' => '中国员工团体健康保障说明--外服',
+    'DownLink' => '/upload/201506/09/中国员工团体健康保障--外服.doc',
+    'Manager' => '陈冲',
+    'Department' => '人事部',
+    'PublicDate' => '2014-09-10 17:38:12.000',
+    'Abstract' => '中国员工团体健康保障说明--外服',
+  ),
+  12 => 
+  array (
+    'categoryName' => '行政部',
+    'Title' => '车辆管理制度',
+    'DownLink' => '/upload/201506/09/车辆管理制度(09.12.1).pdf',
+    'Manager' => '潘妮娜',
+    'Department' => '行政部',
+    'PublicDate' => '2014-09-11 16:23:19.000',
+    'Abstract' => '车辆管理相关制度',
+  ),
+  13 => 
+  array (
+    'categoryName' => '行政部',
+    'Title' => '公司会务旅游制度',
+    'DownLink' => '/upload/201506/09/关于会务旅游的操作管理办法.pdf',
+    'Manager' => '顾丹',
+    'Department' => '行政部',
+    'PublicDate' => '2014-09-11 16:24:47.000',
+    'Abstract' => '公司会务旅游相关制度',
+  ),
+  14 => 
+  array (
+    'categoryName' => '行政部',
+    'Title' => '行政采购管理制度',
+    'DownLink' => '/upload/201506/09/采购管理办法.pdf',
+    'Manager' => '顾丹',
+    'Department' => '行政部',
+    'PublicDate' => '2014-09-11 16:45:12.000',
+    'Abstract' => '行政采购管理相关制度和方法',
+  ),
+  15 => 
+  array (
+    'categoryName' => '云鲸',
+    'Title' => 'Lync2013使用入门手册',
+    'DownLink' => '/upload/201506/09/Lync2013使用入门手册.pdf',
+    'Manager' => '梁晓瑜',
+    'Department' => '信息化技术部',
+    'PublicDate' => '2014-09-15 18:18:37.000',
+    'Abstract' => 'Lync2013的入门以及使用方法',
+  ),
+  16 => 
+  array (
+    'categoryName' => '法务部',
+    'Title' => '游戏文化部备案所需材料',
+    'DownLink' => '/upload/201506/09/游戏文化部备案所需材料.docx',
+    'Manager' => '李珂（杭州），李小丽（上海）',
+    'Department' => '法务部',
+    'PublicDate' => '2014-09-17 11:26:14.000',
+    'Abstract' => '游戏文化部备案所需材料',
+  ),
+  17 => 
+  array (
+    'categoryName' => '法务部',
+    'Title' => '软件著作权登记所需材料',
+    'DownLink' => '/upload/201506/09/软件著作权登记所需文件清单.docx',
+    'Manager' => '李珂（杭州），朱必伟（上海）',
+    'Department' => '法务部',
+    'PublicDate' => '2014-09-17 14:08:13.000',
+    'Abstract' => '软件著作权登记所需文件清单',
+  ),
+  18 => 
+  array (
+    'categoryName' => '人事部',
+    'Title' => '边锋内部推荐奖励计划',
+    'DownLink' => '/upload/201904/03/边锋内部推荐奖励计划.pdf',
+    'Manager' => '邹艳',
+    'Department' => '人事部',
+    'PublicDate' => '2018-03-19 11:33:34.000',
+    'Abstract' => '边锋内部推荐计划',
+  ),
+  19 => 
+  array (
+    'categoryName' => '云鲸',
+    'Title' => '发起会议预定会议室指南',
+    'DownLink' => '/upload/201506/09/发起会议预定会议室.docx',
+    'Manager' => '张臣川',
+    'Department' => '信息化技术部',
+    'PublicDate' => '2014-10-13 15:55:03.000',
+    'Abstract' => '会议发起以及预定',
+  ),
+  20 => 
+  array (
+    'categoryName' => '人事部',
+    'Title' => '员工招聘录用管理制度',
+    'DownLink' => '/upload/201602/25/员工招聘录用管理制度20160121.pdf',
+    'Manager' => '褚慧',
+    'Department' => '人事部',
+    'PublicDate' => '2016-01-21 10:21:49.000',
+    'Abstract' => '员工招聘录用管理制度',
+  ),
+  21 => 
+  array (
+    'categoryName' => '人事部',
+    'Title' => '考勤及假期管理规定',
+    'DownLink' => '/upload/201903/04/考勤及假期管理规定-2018.pdf',
+    'Manager' => '邹艳',
+    'Department' => '人事部',
+    'PublicDate' => '2019-03-01 11:12:22.000',
+    'Abstract' => '考勤及假期管理规定',
+  ),
+  22 => 
+  array (
+    'categoryName' => '人事部',
+    'Title' => '外服联系方式',
+    'DownLink' => '/upload/201901/08/外服联系方式.pdf',
+    'Manager' => '邹艳',
+    'Department' => '人事部',
+    'PublicDate' => '2019-01-02 11:21:05.000',
+    'Abstract' => '外服联系方式',
+  ),
+  23 => 
+  array (
+    'categoryName' => '人事部',
+    'Title' => '杭州集体户口挂靠办事指南',
+    'DownLink' => '/upload/201702/07/流动人员人事档案存放人员集体户口挂靠落户（市人才).doc',
+    'Manager' => '邹艳',
+    'Department' => '人力资源部',
+    'PublicDate' => '2017-02-07 11:47:32.000',
+    'Abstract' => '集体户口挂靠办事指南',
+  ),
+  24 => 
+  array (
+    'categoryName' => '财务部',
+    'Title' => '《边锋集团-关于员工费用报销的规定制度》',
+    'DownLink' => '/upload/201912/16/关于员工费用报销的规定（2019.12.18修订）.pdf',
+    'Manager' => '吴春燕',
+    'Department' => '财务部',
+    'PublicDate' => '2019-12-16 12:34:52.000',
+    'Abstract' => '该规定用于规范员工费用报销行为，详细说明了费用申请和费用报销的具体规定，强调了报销过程中的注意事项，以指导员工的财务报销，降低财务风险。',
+  ),
+  25 => 
+  array (
+    'categoryName' => '财务部',
+    'Title' => '《边锋集团-关于员工备用金借款的规定》',
+    'DownLink' => '/upload/201509/29/边锋集团-关于员工备用金借款的规定.pdf',
+    'Manager' => '贝丽飞',
+    'Department' => '财务部',
+    'PublicDate' => '2015-09-29 12:36:13.000',
+    'Abstract' => '该制度用于规范员工备用金借款的行为，详细说明了有关备用金借款的具体规定，强调了借款过程中的注意事项，以指导员工的财务报销，降低财务风险。',
+  ),
+  26 => 
+  array (
+    'categoryName' => '财务部',
+    'Title' => '《边锋集团-关于对外银行付款业务的规定》',
+    'DownLink' => '/upload/201509/29/边锋集团-关于对外银行付款业务的规定.pdf',
+    'Manager' => '贝丽飞',
+    'Department' => '财务部',
+    'PublicDate' => '2015-09-29 12:36:55.000',
+    'Abstract' => '该规定用于规范对外银行付款业务行为，详细说明了对外银行付款业务的具体规定，强调了注意事项，降低财务风险。',
+  ),
+  27 => 
+  array (
+    'categoryName' => '财务部',
+    'Title' => '《边锋集团-关于固定资产管理制度的规定》',
+    'DownLink' => '/upload/201509/29/边锋集团-关于固定资产管理制度的规定.pdf',
+    'Manager' => '贝丽飞',
+    'Department' => '财务部',
+    'PublicDate' => '2015-09-29 12:38:16.000',
+    'Abstract' => '该制度用于规范部门和员工对固定资产的管理及使用，详细说明了有关固定资产的管理规定。',
+  ),
+  28 => 
+  array (
+    'categoryName' => '财务部',
+    'Title' => '《边锋集团-关于发票管理的规定》',
+    'DownLink' => '/upload/201509/29/边锋集团-关于发票管理的规定.pdf',
+    'Manager' => '贝丽飞',
+    'Department' => '财务部',
+    'PublicDate' => '2015-09-29 12:39:18.000',
+    'Abstract' => '该规定用于规范对发票的管理，详细说明了发票，强调了注意事项，降低财务风险。',
+  ),
+  29 => 
+  array (
+    'categoryName' => '财务部',
+    'Title' => '《边锋集团-关于会计档案管理制度的规定》',
+    'DownLink' => '/upload/201509/29/边锋集团-关于会计档案管理制度的规定.pdf',
+    'Manager' => '贝丽飞',
+    'Department' => '财务部',
+    'PublicDate' => '2015-09-29 12:39:57.000',
+    'Abstract' => '该制度为规范财务业务相关单据的操作流程，明确了各岗位责任人职责。通过明确会计档案存档管理要求，确保财务文档的安全管理。',
+  ),
+  30 => 
+  array (
+    'categoryName' => '法务部',
+    'Title' => '边锋合同管理制度',
+    'DownLink' => '/upload/201602/17/边锋合同管理制度1602.pdf',
+    'Manager' => '罗琼',
+    'Department' => '法务部',
+    'PublicDate' => '2016-02-17 10:34:11.000',
+    'Abstract' => '为加强公司对外签订合同的管理工作，规范合同的起草、审核（批）、签订和归档等工作内容，保障公司业务的正常开展，维护公司在业务活动中的合法权益，特制定本制度',
+  ),
+  31 => 
+  array (
+    'categoryName' => '法务部',
+    'Title' => '边锋用印管理制度',
+    'DownLink' => '/upload/201602/17/边锋用印管理制度1602.pdf',
+    'Manager' => '罗琼',
+    'Department' => '法务部',
+    'PublicDate' => '2016-02-17 10:35:06.000',
+    'Abstract' => '为加强公司对外签订合同的管理工作，规范合同的起草、审核（批）、签订和归档等工作内容，保障公司业务的正常开展，维护公司在业务活动中的合法权益，特制定本制度',
+  ),
+  32 => 
+  array (
+    'categoryName' => '法务部',
+    'Title' => '边锋印章管理制度',
+    'DownLink' => '/upload/201602/17/边锋印章管理制度1602.pdf',
+    'Manager' => '罗琼',
+    'Department' => '法务部',
+    'PublicDate' => '2016-02-17 10:35:46.000',
+    'Abstract' => '为加强公司印章管理工作，规范印章的刻制、启用、领取、保管、使用及废止等工作内容，保障公司业务的正常开展，维护公司在业务活动中的合法权益，特制定本制度。',
+  ),
+  33 => 
+  array (
+    'categoryName' => '法务部',
+    'Title' => '边锋证照管理制度',
+    'DownLink' => '/upload/201602/17/边锋证照管理制度1602.pdf',
+    'Manager' => '罗琼',
+    'Department' => '法务部',
+    'PublicDate' => '2016-02-17 10:36:22.000',
+    'Abstract' => '为规范公司证照保管、领取、使用和维护，以及使用的合法性、严肃性和安全性，保障公司业务的正常开展，加强公司法律风险控制，避免证照管理出现不规范行为，有效维护公司利益，特制定本制度。',
+  ),
+  34 => 
+  array (
+    'categoryName' => '人事部',
+    'Title' => '猎头渠道管理制度',
+    'DownLink' => '/upload/201602/25/猎头渠道管理制度20160121.pdf',
+    'Manager' => '邹艳',
+    'Department' => '人事部',
+    'PublicDate' => '2016-01-21 14:14:01.000',
+    'Abstract' => '猎头渠道管理制度',
+  ),
+  35 => 
+  array (
+    'categoryName' => '人事部',
+    'Title' => '边锋筑巢计划借款申请表',
+    'DownLink' => '/upload/201908/27/筑巢借款申请表-2019年8月.docx',
+    'Manager' => '人力资源部',
+    'Department' => '人力资源部',
+    'PublicDate' => '2019-08-23 12:34:14.000',
+    'Abstract' => '边锋筑巢计划借款申请表',
+  ),
+  36 => 
+  array (
+    'categoryName' => '人事部',
+    'Title' => '杭州边锋网络技术有限公司筑巢计划实施方案',
+    'DownLink' => '/upload/201908/26/杭州边锋网络技术有限公司筑巢计划实施方案2019年8月.pdf',
+    'Manager' => '人力资源部',
+    'Department' => '人力资源部',
+    'PublicDate' => '2019-08-23 10:26:45.000',
+    'Abstract' => '发展创新，以人为本。人才是企业生存发展的核心竞争力，也是企业最宝贵的资源财富。为了进一步推进公司人才队伍建设，更好地吸引人才、激励人才、帮助优秀员工实现安居乐业，经公司研究决定，推出“边锋筑巢计划”，为员工购买工作地住房或改善房提供低息贷款。',
+  ),
+  37 => 
+  array (
+    'categoryName' => '数据中心',
+    'Title' => '数据中心白皮书',
+    'DownLink' => '/upload/201806/08/数据中心白皮书0713_18.pdf',
+    'Manager' => '李一飞',
+    'Department' => '百晓生',
+    'PublicDate' => '2018-06-08 16:27:10.000',
+    'Abstract' => '数据中心白皮书',
+  ),
+  38 => 
+  array (
+    'categoryName' => '神盾局',
+    'Title' => '神盾局系统文档',
+    'DownLink' => '/upload/201806/19/神盾局文档.pdf',
+    'Manager' => '王春青',
+    'Department' => '神盾局',
+    'PublicDate' => '2018-06-19 16:36:58.000',
+    'Abstract' => '神盾局系统文档',
+  ),
+  39 => 
+  array (
+    'categoryName' => '云鲸',
+    'Title' => '二级域名申请规范',
+    'DownLink' => '/upload/201806/19/二级域名申请规范.docx',
+    'Manager' => '梁晓瑜',
+    'Department' => '云鲸',
+    'PublicDate' => '2018-06-19 16:39:57.000',
+    'Abstract' => '二级域名申请规范',
+  ),
+  40 => 
+  array (
+    'categoryName' => '云鲸',
+    'Title' => '员工网络安全行为规范文档',
+    'DownLink' => '/upload/201905/23/员工网络安全行为规范文档.pdf',
+    'Manager' => '梁晓瑜',
+    'Department' => '云鲸',
+    'PublicDate' => '2018-06-19 16:40:24.000',
+    'Abstract' => '员工网络安全行为规范',
+  ),
+  41 => 
+  array (
+    'categoryName' => '云鲸',
+    'Title' => '云鲸会议指南',
+    'DownLink' => '/upload/201806/19/云鲸会议指南.docx',
+    'Manager' => '梁晓瑜',
+    'Department' => '云鲸',
+    'PublicDate' => '2018-06-19 16:40:52.000',
+    'Abstract' => '云鲸会议指南',
+  ),
+  42 => 
+  array (
+    'categoryName' => '云鲸',
+    'Title' => '运维服务申请流程',
+    'DownLink' => '/upload/201806/19/运维服务申请流程.docx',
+    'Manager' => '梁晓瑜',
+    'Department' => '云鲸',
+    'PublicDate' => '2018-06-19 16:41:15.000',
+    'Abstract' => '运维服务申请流程',
+  ),
+  43 => 
+  array (
+    'categoryName' => '人事部',
+    'Title' => '边锋内部创业孵化激励制度',
+    'DownLink' => '/upload/201811/05/边锋内部创业孵化激励制度.pdf',
+    'Manager' => '组织和人才发展部',
+    'Department' => '组织和人才发展部',
+    'PublicDate' => '2018-11-05 18:23:18.000',
+    'Abstract' => '本制度适用于杭州边锋网络技术有限公司内部创业项目，投资公司、分子公司可参照执行。',
+  ),
+  44 => 
+  array (
+    'categoryName' => '人事部',
+    'Title' => '员工手册V4.1',
+    'DownLink' => '/upload/201905/21/员工手册V4.1.doc',
+    'Manager' => '褚慧',
+    'Department' => '人事部',
+    'PublicDate' => '2019-03-01 15:30:07.000',
+    'Abstract' => '员工手册',
+  ),
+  45 => 
+  array (
+    'categoryName' => '人事部',
+    'Title' => '杭州边锋网络技术有限公司员工福利管理制度',
+    'DownLink' => '/upload/201909/11/杭州边锋网络技术有限公司员工福利管理制度2019年8月.pdf',
+    'Manager' => '邹艳',
+    'Department' => '人事部',
+    'PublicDate' => '2019-08-23 15:32:24.000',
+    'Abstract' => '福利管理制度',
+  ),
+  46 => 
+  array (
+    'categoryName' => '云鲸',
+    'Title' => '边锋SDL安全设计Checklist',
+    'DownLink' => '/upload/202003/23/边锋SDL安全设计Checklist v1.1.pdf',
+    'Manager' => '梁晓瑜',
+    'Department' => '云鲸',
+    'PublicDate' => '2019-05-24 10:36:00.000',
+    'Abstract' => '边锋SDL安全设计Checklist',
+  ),
+  47 => 
+  array (
+    'categoryName' => '规则制度',
+    'Title' => '深圳区域考勤休假管理制度',
+    'DownLink' => '/upload/201907/29/【SZTTA-HR001号】深圳天天爱科技有限公司考勤休假管理制度V4.0版.pdf',
+    'Manager' => '邱漩',
+    'Department' => '人力资源部',
+    'PublicDate' => '2019-05-01 15:25:02.000',
+    'Abstract' => '考勤 休假 管理',
+  ),
+  48 => 
+  array (
+    'categoryName' => '云鲸',
+    'Title' => '安卓手机邮箱配置',
+    'DownLink' => '/upload/201908/12/安卓手机邮箱配置(华为).pdf',
+    'Manager' => '梁晓瑜',
+    'Department' => '云鲸',
+    'PublicDate' => '2019-08-12 15:12:23.000',
+    'Abstract' => '安卓手机邮箱配置',
+  ),
+  49 => 
+  array (
+    'categoryName' => '云鲸',
+    'Title' => 'iphone、ipad邮箱配置',
+    'DownLink' => '/upload/201908/12/iphone,ipad邮箱配置.docx',
+    'Manager' => '梁晓瑜',
+    'Department' => '云鲸',
+    'PublicDate' => '2019-08-12 15:13:18.000',
+    'Abstract' => 'iphone、ipad邮箱配置',
+  ),
+)
